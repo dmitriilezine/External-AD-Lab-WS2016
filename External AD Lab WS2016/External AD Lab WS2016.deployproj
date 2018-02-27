@@ -32,5 +32,8 @@
     </None>
     <Content Include="Deploy-AzureResourceGroup.ps1" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="data\" />
+  </ItemGroup>
   <Target Name="GetReferenceAssemblyPaths" />
 </Project>
