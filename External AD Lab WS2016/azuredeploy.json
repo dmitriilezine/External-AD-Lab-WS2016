@@ -149,7 +149,7 @@
     }
   },
   "variables": {
-    "assetLocation": "https://raw.githubusercontent.com/dmitriilezine/External%20AD%20Lab%20WS2016/master/External%20AD%20Lab%20WS2016",
+    "assetLocation": "https://raw.githubusercontent.com/dmitriilezine/External-AD-Lab-WS2016/master/External%20AD%20Lab%20WS2016",
     "VMSize": "Standard_A2",
     "dc1VMOSVersion": "[parameters('DC1VMImageSKU')]",
     "dc2VMOSVersion": "[parameters('DC2VMImageSKU')]",
