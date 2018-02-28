@@ -30,6 +30,7 @@
     <None Include="data\appServer1Vm.json" />
     <None Include="data\dc1VmTemplate.json" />
     <None Include="data\dc2VmTemplate.json" />
+    <None Include="data\DeployADDS.zip" />
     <None Include="data\deployPrimaryAD.json" />
     <None Include="data\jumpServerVm.json" />
     <None Include="data\nsgDeployment.json" />
